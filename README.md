@@ -3,7 +3,7 @@
 <br>
 <p align="center"><a href="https://t.me/lightning_support_group"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
 </p>
-<h1>BLACK LIGHTNING</h1>
+<h1>Master Teddy</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
